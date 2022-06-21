@@ -139,7 +139,7 @@ public class DashboardFragment extends Fragment {
             }
         });
 
-        refreshSentimentSpinner(root);
+        //refreshSentimentSpinner(root);
         return root;
     }
 

@@ -3,6 +3,14 @@ plugins {
 }
 
 android {
+    signingConfigs {
+        debug {
+            storeFile file('C:\\Users\\marca\\keystore.jks')
+            storePassword '#Thebigthree333'
+            keyAlias 'key0'
+            keyPassword '#Thebigthree333'
+        }
+    }
     compileSdkVersion 31
     buildToolsVersion "30.0.3"
 
