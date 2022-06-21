@@ -1,4 +1,4 @@
-# simplehabits
+# SimpleHabits
 A simple habit tracking application which encourages straightforward tracking of good and bad habits. Take things one step at a time, you're only human!
 
 ## What is this?
@@ -19,3 +19,7 @@ Tracking a habit should take no longer than ~10 seconds. This involves selecting
 
 ## What technologies are used in this application?
 As previously mentioned this application uses SQlite for data storage, and Android Studio Java for UI development and data processing.
+
+## Cool I guess I'll try this thing...
+Awesome sauce!! Let's get you set-up. I am perma-banned from the Google Play Store (kind of a funny story), so here's a direct download link to the signed APK: [Simple Habits download HERE](https://github.com/marcaufderheyde/simplehabits/raw/master/app/release/app-release.apk).
+
