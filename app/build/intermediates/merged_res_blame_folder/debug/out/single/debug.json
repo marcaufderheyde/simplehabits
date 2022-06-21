@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\layout_cat_rv_item.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\layout\\cat_rv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xhdpi\\ic_launcher_.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-mdpi_ic_launcher_.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-mdpi\\ic_launcher_.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-hdpi\\ic_launcher_round_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xhdpi\\ic_launcher_round_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher__round.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-anydpi-v26\\ic_launcher__round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-mdpi\\ic_launcher_round_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\layout_activity_view_course.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\layout\\activity_view_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxhdpi\\ic_launcher_.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\drawable_ic_launcher__background.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\drawable\\ic_launcher__background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\drawable_ic_launcher_round_background.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\drawable\\ic_launcher_round_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-mdpi_ic_launcher__round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-mdpi\\ic_launcher__round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xhdpi\\ic_launcher_round_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round_foreground.png"
+    },
+    {
+        "merged": "com.example.simplehabits.app-merged_res-32:/layout_fragment_home.xml.flat",
+        "source": "com.example.simplehabits.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-mdpi\\ic_launcher_round_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-hdpi_ic_launcher__round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-hdpi\\ic_launcher__round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher__round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxhdpi\\ic_launcher__round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-hdpi_ic_launcher_.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-hdpi\\ic_launcher_.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round_round.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher__round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxxhdpi\\ic_launcher__round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xhdpi_ic_launcher__round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xhdpi\\ic_launcher__round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round_round.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round_foreground.png.flat",
+        "source": "C:\\Users\\marca\\.gradle\\daemon\\7.3.3\\com.example.simplehabits.app-main-34:\\mipmap-hdpi\\ic_launcher_round_foreground.png"
+    }
+]

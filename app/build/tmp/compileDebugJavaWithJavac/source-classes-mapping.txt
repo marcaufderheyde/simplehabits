@@ -1,0 +1,19 @@
+com/example/simplehabits/ui/home/HomeViewModel.java
+ com.example.simplehabits.ui.home.HomeViewModel
+com/example/simplehabits/ui/notifications/NotificationsFragment.java
+ com.example.simplehabits.ui.notifications.NotificationsFragment
+ com.example.simplehabits.ui.notifications.NotificationsFragment$1
+com/example/simplehabits/MainActivity.java
+ com.example.simplehabits.MainActivity
+com/example/simplehabits/BuildConfig.java
+ com.example.simplehabits.BuildConfig
+com/example/simplehabits/ui/dashboard/DashboardViewModel.java
+ com.example.simplehabits.ui.dashboard.DashboardViewModel
+com/example/simplehabits/ui/notifications/NotificationsViewModel.java
+ com.example.simplehabits.ui.notifications.NotificationsViewModel
+com/example/simplehabits/ui/dashboard/DashboardFragment.java
+ com.example.simplehabits.ui.dashboard.DashboardFragment
+ com.example.simplehabits.ui.dashboard.DashboardFragment$1
+com/example/simplehabits/ui/home/HomeFragment.java
+ com.example.simplehabits.ui.home.HomeFragment
+ com.example.simplehabits.ui.home.HomeFragment$1
