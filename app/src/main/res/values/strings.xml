@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleHabits</string>
+    <string name="title_past_habits">Past Habits</string>
+    <string name="title_add_new_habit">Add New Habit</string>
+    <string name="title_a_habit_story">A Habit Story</string>
+    <string name="category_choice">Choose a category from the dropdown below:</string>
+    <string name="category_sentiment">Choose a habit sentiment from the dropdown below:</string>
+    <string name="main_screen_title">Add your Habit now!</string>
+    <string name="settings_screen_title">Add or remove categories!</string>
+    <string name="notification_screen_title">View habit data here!</string>
+    <string name="category_update_delete">Choose a category from the dropdown below to edit or delete:</string>
+    <string name="category_sentiment_selection">Choose a default sentiment from the dropdown below:</string>
+    <string name="category_sentiment_update">Choose a new default sentiment from the dropdown below:</string>
+    <string name="category_add">Add a category below:</string>
+
+</resources>
